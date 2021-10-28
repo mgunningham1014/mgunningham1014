@@ -1,0 +1,12 @@
+- 👋  Hi, I’m Mandi Gunningham
+- 👀  I’m interested in 
+  - Web development
+  - .NET, SQL, React & Ruby on Rails
+  - Game development
+  - Writing about technology and development
+- 🌱  I’m currently learning
+  - More about open source contributions
+- 📫  How to reach me: 
+  - Medium: mandigunningham.medium.com
+  - IG: @d.lione.ss
+  - email: mandigunningham@gmail.com
