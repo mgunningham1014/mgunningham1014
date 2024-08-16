@@ -1,11 +1,9 @@
-- 👋  Hi, I’m Mandi Gunningham
+- 👋  Hi, I’m Mandi Gunningham, a software engineering leader and independent developer
 - 👀  I’m interested in 
-  - Web development
-  - .NET, SQL, React & Ruby on Rails
-  - Game development
-  - Writing about technology and development
-- 🌱  I’m currently learning
-  - More about open source contributions
+  - Full-stack web development
+    - Specifically, node and react
+  - Unity game development
+  - Writing about software development and career topics
 - 📫  How to reach me: 
   - Medium: mandigunningham.medium.com
   - IG: @d.lione.ss
